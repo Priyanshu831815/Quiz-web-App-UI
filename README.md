@@ -1,3 +1,7 @@
+# Quiz Web App UI
+
+A fast and dynamic quiz web interface built with React.js, powered by Vite and styled using Tailwind CSS.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
